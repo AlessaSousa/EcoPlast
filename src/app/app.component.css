@@ -119,6 +119,10 @@
   padding: 20px;
   margin: 20px;
   color:white;
+  transition: transform 0.3s ease;
+}
+.card-1:hover{
+    transform: translateY(-5px);
 }
 .card-2{
   display: flex;
@@ -129,6 +133,10 @@
   padding: 20px;
   margin: 20px;
   color:white;
+  transition: transform 0.3s ease;
+}
+.card-2:hover{
+    transform: translateY(-5px);
 }
 .card-3{
   display: flex;
@@ -139,6 +147,10 @@
   padding: 20px;
   margin: 20px;
   color: white;
+  transition: transform 0.3s ease;
+}
+.card-3:hover{
+    transform: translateY(-5px);
 }
 .container{
   width: 100%;
