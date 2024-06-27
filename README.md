@@ -63,7 +63,7 @@ ECOPLAST/
 
 1. Clone o repositório do github:
     ```sh
-    git clone https://github.com/seu-usuario/ecoplast.git
+     git clone https://github.com/AlessaSousa/EcoPlast.git
     cd ecoplast
     ```
 2. instale as dependências:
