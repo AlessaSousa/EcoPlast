@@ -34,31 +34,6 @@ Algumas propriedades feitas em css:
 
 - **Rodapé**: Inclui logo e ícones de redes sociais, estilizados para manter um layout consistente.
 
-## Estrutura de pastas
-ECOPLAST/
-│
-├── src/
-│ ├── app/
-│ │ ├── components/
-│ │ │ ├── top-bar/
-│ │ │ ├── main-image/
-│ │ │ ├── principles/
-│ │ │ ├── info-cards/
-│ │ │ ├── testimonials/
-│ │ │ └── footer/
-│ │ ├── services/
-│ │ ├── models/
-│ │ ├── app.component.html
-│ │ ├── app.component.css
-│ │ └── app.component.ts
-│ ├── assets/
-│ ├── environments/
-│ ├── index.html
-│ └── styles.css
-├── angular.json
-├── package.json
-└── README.md
-
 ## Para fazer com que o projeto rode você precisará de alguns requisitos
 
 1. Clone o repositório do github:
